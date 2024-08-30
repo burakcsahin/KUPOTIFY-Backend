@@ -1,0 +1,1 @@
+Backend that connects with mySQL server that holds the Schemas and Tables for Songs, Artists, Groups, Users, Playlists for our project KUPOTIFY: Koc University Spotify Admin Panel for the course COMP306: Database Management Systems. The admin panel supports operations such as adding, removing, editing songs, albums, artists etc.
